@@ -44,11 +44,7 @@ function App() {
       email:'akash@gmail.com',
       batchNo:'11'
     },
-    {
-      fullName:'Nisha kumari',
-      email:'nisha@gmail.com',
-      batchNo:'10'
-    }
+
   ]
   return (
     <div className="App">
